@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**Ndagijimanadamour2020/Ndagijimanadamour2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm D'amour NDAGIJIMANA 👋
 
-Here are some ideas to get you started:
+### Backend Software Engineer | Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder & Lead Software Developer at Hero Home Tech Solutions.
+
+I build backend systems, REST APIs, database-driven applications and intelligent digital solutions.
+
+## Technical Skills
+
+### Backend Development
+- Node.js
+- Express.js
+- PHP
+- Laravel
+- RESTful API Development
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQL
+
+### Frontend Development
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Bootstrap
+
+### DevOps & Tools
+- Git
+- GitHub
+- Docker
+
+### AI & Machine Learning
+- Python
+- TensorFlow
+- PyTorch
+- YOLO
+- OpenCV
+
+## Featured Projects
+- [Hero Home Tech Solutions](https://github.com/Ndagijimanadamour2020/hero-home-tech-solutions)
+- [Hero AI Shorts](https://github.com/Ndagijimanadamour2020/hero-ai-shorts)
+
+## Contact
+- Portfolio: https://herohometech.free.nf/
+- LinkedIn: https://www.linkedin.com/in/ndagijimana-d-amour-24241821b/
